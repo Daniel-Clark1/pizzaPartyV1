@@ -1,3 +1,8 @@
+// This is made by Daniel Clark
+// no ai was used for this program
+//the purpose of this program is to show how much pizza is needed for the party and the number of guests attending
+// and the total cost of the party, and how much it costs per guest to come.
+
 #include <iostream>
 #include <iomanip> // fixed
 #include <cmath> // ceil()
